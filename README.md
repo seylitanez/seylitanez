@@ -1,5 +1,6 @@
 <div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" />
+<h1 align="center">picture of the day !</h1>
 <img src="https://picsum.photos/1024/720" style="width: 100%" />
   
 </div>  
